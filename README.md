@@ -1,4 +1,4 @@
-![Логотип ООО ТД Комплект](https://tools.by/themes/tetoo/tdk_logo_h100.jpg) 
+![Логотип ООО ТД Комплект](https://tools.by/assets/images/logos/by/logo.svg) 
 
 # Тестовое задание для web-разработчика Laravel
 
@@ -62,9 +62,9 @@
 - Приветствуется покрытие кода тестами
 
 **Стек:**
-- PHP >= 7.3
+- PHP >= 8.x
 - MySQL 8
-- Laravel >= 9
+- Laravel >= 10.x
 - Bootstrap 5
 - Laravel Livewire
 
